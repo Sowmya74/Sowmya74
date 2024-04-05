@@ -81,7 +81,7 @@ Hey there! I'm Sowmya Vara, a Computer Science Graduate specializing in data sci
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 
 
-
+<br>
 
   <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
