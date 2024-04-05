@@ -92,4 +92,5 @@ Hey there! I'm Sowmya Vara, a Computer Science Graduate specializing in data sci
 
 
 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=LinkedIn)
 
