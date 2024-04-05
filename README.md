@@ -25,12 +25,16 @@ Glad to see you here!
 
 Hey there! I'm Sowmya Vara, a Computer Science Graduate specializing in data science and machine learning. I leverage my strong analytical background and programming skills to extract insights from complex datasets. My focus lies on utilizing advanced techniques to solve problems and drive data-driven decision making.
 
+
+
 ## 🎓 Background
 
-### Master of Computer Science at George Washington University
-### Graduate Teaching Assistant at George Washington University
-### Ex-Software Engineer at DXC Technology
-### DataScience Intern @ Hamoye.org
+Master of Computer Science at George Washington University
+Graduate Teaching Assistant at George Washington University
+Ex-Software Engineer at DXC Technology
+DataScience Intern @ Hamoye.org
+
+
 
 <img align="left" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="620">
 
