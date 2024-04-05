@@ -87,10 +87,9 @@ Hey there! I'm Sowmya Vara, a Computer Science Graduate specializing in data sci
 
 <p align="center"> 
 &nbsp; <a href="https://www.linkedin.com/in/sowmya-vara" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/sowmya-vara" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Sowmya74/Sowmya74/assets/74980301/912189e3-7a6b-4fcb-a8a6-dbe58cb9420b" width="50" /></a>
 &nbsp; <a href="mailto:sowmyavara26@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&https://www.flaticon.com/free-icon/linkedin_2504923?term=linkedin&page=1&position=11&origin=search&related_id=2504923)
 
 
