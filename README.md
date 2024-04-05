@@ -37,7 +37,7 @@ Hey there! I'm Sowmya Vara, a Computer Science Graduate specializing in data sci
 <br>
 
 
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="720">
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="620">
 
 
 ## 🔧 Skills & Tools
