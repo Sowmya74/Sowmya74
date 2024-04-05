@@ -19,13 +19,13 @@ Glad to see you here!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;)](https://git.io/typing-svg)
 
-
+<br>
 
 ## 🚀 About Me
 
 Hey there! I'm Sowmya Vara, a Computer Science Graduate specializing in data science and machine learning. I leverage my strong analytical background and programming skills to extract insights from complex datasets. My focus lies on utilizing advanced techniques to solve problems and drive data-driven decision making.
 
-
+<br>
 
 ## 🎓 Background
 
@@ -34,7 +34,7 @@ Hey there! I'm Sowmya Vara, a Computer Science Graduate specializing in data sci
 ###Ex-Software Engineer at DXC Technology
 ###DataScience Intern @ Hamoye.org
 
-
+<br>
 
 
 <img align="left" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="620">
