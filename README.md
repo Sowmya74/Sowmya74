@@ -32,7 +32,7 @@ Hey there! I'm Sowmya Vara, a Computer Science Graduate specializing in data sci
 ### Ex-Software Engineer at DXC Technology
 ### DataScience Intern @ Hamoye.org
 
-
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="50">
 ## 🔧 Skills & Tools
 
 ### Languages
