@@ -23,7 +23,7 @@ Glad to see you here!
 
 ## 🚀 About Me
 
-Hey there! I'm Sowmya Vara, a Computer Science Graduate specializing in data science and machine learning. I leverage my strong analytical background and programming skills to extract insights from complex datasets. My focus lies on utilizing advanced techniques to solve problems and drive data-driven decision making.
+Hey there! I'm Sowmya Vara, a Computer Science Graduate specializing in machine learning and cloud computing. I leverage my strong analytical background and programming skills to extract insights from complex datasets. My focus lies on utilizing advanced techniques to solve problems and drive data-driven decision making.
 
 <br>
 
