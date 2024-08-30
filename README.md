@@ -80,9 +80,9 @@ Hey there! I'm Sowmya Vara, a Computer Science Graduate specializing in machine 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%20v3.8.0-blue)
-![Seaborn](https://img.shields.io/badge/Seaborn-%20v0.12.2-blue)
-![Plotly](https://img.shields.io/badge/Plotly-%20v5.17.0-blue)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
+![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=Plotly)
 
 <br>
 
