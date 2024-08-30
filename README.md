@@ -29,10 +29,11 @@ Hey there! I'm Sowmya Vara, a Computer Science Graduate specializing in machine 
 
 ## 🎓 Background
 
-### Master of Computer Science at George Washington University
-### Graduate Teaching Assistant at George Washington University
-### Ex-Software Engineer at DXC Technology
-### DataScience Intern @ Hamoye.org
+### Data Analyst at [Project Insulin](https://projectinsulin.org/)
+### Master of Computer Science at [George Washington University](https://engineering.gwu.edu/)
+### Graduate Teaching Assistant at [George Washington University](https://engineering.gwu.edu/)
+### Ex-Software Engineer at [DXC Technology](https://dxc.com/in/en)
+### DataScience Intern at [Hamoye.org](https://www.hamoye.com/programs/data-science/)
 
 <br>
 
@@ -79,7 +80,9 @@ Hey there! I'm Sowmya Vara, a Computer Science Graduate specializing in machine 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
-
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%20v3.8.0-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-%20v0.12.2-blue)
+![Plotly](https://img.shields.io/badge/Plotly-%20v5.17.0-blue)
 
 <br>
 
