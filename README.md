@@ -1,4 +1,4 @@
-## Hi there ![WavingHand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)     Glad to see you here!   
+Hi there ![WavingHand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)     Glad to see you here!   
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;)](https://git.io/typing-svg)
 
