@@ -37,55 +37,6 @@ Hey there! I'm Sowmya Vara, a Computer Science Graduate specializing in machine 
 
 <br>
 
-
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="620">
-
-
-## 🔧 Skills & Tools
-
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-### Operating Systems
-
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![RedHat Linux](https://img.shields.io/badge/-RedHat%20Linux-000?&logo=Red-Hat)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
-
-### Tools
-
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-000?&logo=Google-Colab)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=Visual-Studio)
-![Anaconda](https://img.shields.io/badge/-Anaconda-000?&logo=Anaconda)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000?&logo=Jupyter)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-
-### Cloud
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure&logoColor=0078D4)
-
-### Libraries
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20learn-000?&logo=scikit-learn)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
-![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=Plotly)
-
-<br>
-
 ## 🔧 Skills & Tools
 
 | Category        | Skills & Tools                                                                                                                                           |
