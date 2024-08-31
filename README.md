@@ -6,6 +6,18 @@
 
 <br>
 
+<div align="center">
+  <h1>Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="60" height="60" alt="WavingHand" /></h1>
+  <h2>Glad to see you here!</h2>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG">
+  </a>
+</div>
+
+
 ## 🚀 About Me
 
 Hey there! I'm Sowmya Vara, a Computer Science Graduate specializing in machine learning and cloud computing. I leverage my strong analytical background and programming skills to extract insights from complex datasets. My focus lies on utilizing advanced techniques to solve problems and drive data-driven decision making.
