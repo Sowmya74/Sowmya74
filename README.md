@@ -37,6 +37,7 @@ Hey there! I'm Sowmya Vara, a Computer Science Graduate specializing in machine 
 
 <p align="center"> 
 &nbsp; <a href="https://www.linkedin.com/in/sowmya-vara" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Sowmya74/Sowmya74/assets/74980301/912189e3-7a6b-4fcb-a8a6-dbe58cb9420b" width="50" /></a>
-&nbsp; <a href="mailto:sowmyavara26@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Sowmya74/Sowmya74/assets/74980301/fbbe0c24-6a77-4a77-a930-758a955c499e"  width="50" /></a>
+&nbsp; <a href="mailto:sowmyavara7@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Sowmya74/Sowmya74/assets/74980301/fbbe0c24-6a77-4a77-a930-758a955c499e"  width="50" /></a>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
