@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;)](https://git.io/typing-svg)
 
 <br>
-## 🚀 About Me
+##  🚀 About Me
 
 I'm Sowmya Vara, a dedicated Data Scientist with a Masters degree in Computer Science with domain as Machine Learning and AI Cognition. I leverage my strong analytical background and programming skills to extract insights from complex datasets. My focus lies on utilizing advanced techniques to solve problems and drive data-driven decision making. Currently volunteering as a data analyst at Project Insulin and looking for Full time opportunities in Data Science domain.
 <br>
