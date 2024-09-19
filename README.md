@@ -17,7 +17,7 @@ I'm Sowmya Vara, a dedicated Data Scientist with a Masters degree in Computer Sc
 ### Master of Computer Science at [George Washington University](https://engineering.gwu.edu/)
 ### Graduate Teaching Assistant at [George Washington University](https://engineering.gwu.edu/)
 ### Ex-Software Engineer at [DXC Technology](https://dxc.com/in/en)
-### DataScience Intern at [Hamoye.org](https://www.hamoye.com/programs/data-science/)
+
 
 <br>
 
